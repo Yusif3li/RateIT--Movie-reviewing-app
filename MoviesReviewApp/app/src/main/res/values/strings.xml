@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movies Review App</string>
+    <string name="suboption1">Watch Later</string>
+    <string name="suboption2">Dark Mode</string>
+    <string name="suboption3">Light Mode</string>
+    <string name="submenu">More items</string>
+
+    <string name="Genre1">All</string>
+    <string name="Genre2">Action</string>
+    <string name="Genre3">Sci-Fi</string>
+    <string name="Genre4">Crime</string>
+    <string name="Genre5">Drama</string>
+
+    <string name="movie_name_test"></string>
+    <string name="movie_description_test"></string>
+    <!--    <string name="movie_name_test">The Godfather</string>-->
+    <!--    <string name="movie_description_test">The Godfather is a 1972 American epic gangster film directed by Francis Ford Coppola, who co-wrote the screenplay with Mario Puzo based on Puzo\'s best-selling 1969 novel. The film features an ensemble cast that includes Marlon Brando, Al Pacino, James Caan, Richard Castellano, Robert Duvall, Sterling Hayden, John Marley, Richard Conte and Diane Keaton. It is the first installment in The Godfather trilogy, which chronicles the Corleone family under patriarch Vito Corleone (Brando) and the transformation of his youngest son, Michael Corleone (Pacino), from reluctant family outsider to ruthless mafia boss.</string>-->
+</resources>

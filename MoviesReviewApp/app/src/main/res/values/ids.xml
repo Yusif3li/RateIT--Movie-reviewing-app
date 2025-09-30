@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="movie_view_movie_picture" type="id"/>
+    <item name="movie_view_movie_name" type="id"/>
+    <item name="movie_view_movie_description" type="id"/>
+    <item name="movie_view_movie_rating" type="id"/>
+    <item name="movie_view_button_review" type="id"/>
+    <item name="movie_view_button_back" type="id"/>
+    <item name="movie_view_rating_bar" type="id"/>
+    <item name="movie_view_dialog_review" type="id"/>
+
+    <item name="reviews_recycler_username" type="id"/>
+    <item name="reviews_recycler_comment" type="id"/>
+    <item name="reviews_recycler_ratingbar" type="id"/>
+
+    <item name="temp_button" type="id"/>
+	
+	<item name="suboption1" type="id"/>
+    <item name="suboption2" type="id"/>
+    <item name="suboption3" type="id"/>
+    <item name="submenu" type="id"/>
+</resources>

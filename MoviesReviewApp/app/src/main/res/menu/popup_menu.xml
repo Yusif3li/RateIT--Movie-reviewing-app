@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="by genre" >
+        <menu >
+            <item
+                android:id="@+id/comedy"
+                android:title="Comedy" />
+            <item
+                android:id="@+id/action"
+                android:title="Action" />
+            <item
+                android:id="@+id/drama"
+                android:title="Drama" />
+        </menu>
+    </item>
+    <item android:title="by year" >
+        <menu >
+            <item
+                android:id="@+id/y25"
+                android:title="2025" />
+            <item
+                android:id="@+id/y24"
+                android:title="2024" />
+            <item
+                android:id="@+id/y23"
+                android:title="2023" />
+        </menu>
+    </item>
+    <item android:title="by rating" >
+        <menu >
+            <item
+                android:id="@+id/four_or_more"
+                android:title="4+" />
+            <item
+                android:id="@+id/two_or_more"
+                android:title="2+" />
+            <item
+                android:id="@+id/seven_or_more"
+                android:title="7+" />
+        </menu>
+    </item>
+</menu>
